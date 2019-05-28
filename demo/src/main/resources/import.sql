@@ -1,0 +1,11 @@
+INSERT INTO USERS(FIRSTNAME , LASTNAME, EMAIL ,TYPE ) VALUES ('alejandro','munoz','aleMunoz@4thsource.com','1');
+INSERT INTO USERS(FIRSTNAME , LASTNAME, EMAIL ,TYPE )  VALUES ('karla','gustaf','karlaG@4thsource.com','1');
+INSERT INTO USERS(FIRSTNAME , LASTNAME, EMAIL ,TYPE ) VALUES ('rosa','sanchez','rosaSan@4thsource.com','2');
+INSERT INTO USERS(FIRSTNAME , LASTNAME, EMAIL ,TYPE )  VALUES ('maria','solorzano','mariaS@4thsource.com','1');
+INSERT INTO USERS(FIRSTNAME , LASTNAME, EMAIL ,TYPE ) VALUES ('luis','munguia','luisM@4thsource.com','1');
+INSERT INTO USERS(FIRSTNAME , LASTNAME, EMAIL ,TYPE ) VALUES ('ana','laura','anaL@4thsource.com','3');
+INSERT INTO USERS(FIRSTNAME , LASTNAME, EMAIL ,TYPE )  VALUES ('jessica','morales','JessiM@4thsource.com','3');
+INSERT INTO USERS(FIRSTNAME , LASTNAME, EMAIL ,TYPE ) VALUES ('sowie','pinto','sowieP@4thsource.com','3');
+INSERT INTO USERS(FIRSTNAME , LASTNAME, EMAIL ,TYPE )  VALUES ('ivan','leon','ivanL@4thsource.com','2');
+INSERT INTO USERS(FIRSTNAME , LASTNAME, EMAIL ,TYPE )  VALUES ('carlos','salazar','carlosS@4thsource.com','2');
+INSERT INTO USERS(FIRSTNAME , LASTNAME, EMAIL ,TYPE )  VALUES ('maribal','hernandez','maribleH@4thsource.com','2');
